@@ -1,0 +1,131 @@
+.navbar {
+  position: relative;
+  left: 0%;
+  right: 0%;
+  box-shadow: 0 1px 45px 15px rgba(0, 0, 0, 0.1);
+}
+
+#title {
+  background-image: url("/artworks/images/bgpic.jpeg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  height: 850px;
+}
+
+.heading {
+  text-align: center;
+  padding: 200px 500px 0px;
+  font-size: 4rem;
+  text-align: left;
+  color: rgb(5, 0, 0);
+  position: relative;
+}
+
+.para {
+  font-size: 2rem;
+  font-weight: 3rem;
+  color: white;
+  padding: 500px 500px 0px;
+  position: absolute;
+}
+
+#about {
+  padding: 4% 18%;
+  background-color: rgb(230, 230, 231);
+  position: relative;
+}
+
+.icon {
+  margin-bottom: 20px;
+  color: rgb(162, 179, 183);
+}
+
+.icon:hover {
+  color: #71c9e7;
+}
+
+.hobby {
+  font-weight: 800;
+  padding: 80px 20px;
+}
+
+.btn-dark {
+  font-size: 30px;
+  color: #71c9e7;
+}
+
+#photography {
+  background-image: url("/artworks/photographs/bgimg.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  text-align: center;
+}
+
+.pics {
+  font-family: "Montserrat-black", sans-serif;
+  font-size: 2.5rem;
+  font-weight: 900;
+  padding: 15px;
+  color: rgb(220, 245, 235);
+}
+
+.carousel-item {
+  padding: 40px 0px;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.imgcard {
+  background-attachment: fixed;
+  background-size: cover;
+  height: 500px;
+  width: 350px;
+}
+
+#cta {
+  background-color: rgb(162, 179, 183);
+}
+
+.connect {
+  margin-bottom: 50px;
+  font-size: 1.5rem;
+}
+
+.head {
+  font-size: 4rem;
+}
+
+.desc {
+  padding: 3% 15%;
+  text-align: center;
+}
+
+.btn {
+  background: #3498db;
+  background-image: linear-gradient(to bottom, #3498db, #2980b9);
+  border-radius: 28px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #3cb0fd;
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+}
+
+#footer {
+  padding: 3% 15%;
+  text-align: center;
+  background-color: rgb(235, 233, 233);
+}
+
+.iconsocial {
+  margin: 10px;
+}/*# sourceMappingURL=styles.css.map */
